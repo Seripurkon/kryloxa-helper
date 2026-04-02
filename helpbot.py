@@ -3,7 +3,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, ContextTypes, MessageHandler, filters, CommandHandler
 
 # --- НАСТРОЙКИ (Вписываешь один раз и забываешь) ---
-SUPPORT_TOKEN = "8548759774:AAGynBbPfNS58sE-HJf-TEZ4HNw50fQMZBw"
+SUPPORT_TOKEN = "8548759774:AAGdsv1JThkVBonbFgYURkKFHvJP6juc8CE"
 OWNER_ID = 5679520675
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
